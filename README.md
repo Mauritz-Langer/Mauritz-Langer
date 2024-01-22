@@ -6,8 +6,8 @@ Here's a bit more about me:
 
 - 🔭 I’m currently working on various full stack projects, honing my skills in both front-end and back-end technologies.
 - 🌱 I’m studying Business Informatics to understand how to leverage technology to solve business problems.
-- 👯 I’m looking to collaborate on innovative web and app development projects.
-- 🤔 I’m looking for help with advanced DevOps strategies and techniques.
+- 👯 I’m collaborating on innovative web and app development projects.
+- 📡 I’m looking to improve my skills in advanced DevOps strategies and techniques as well as in modern backend languages.
 
 
 ## My Tech Stack
