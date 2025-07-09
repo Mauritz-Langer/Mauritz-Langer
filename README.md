@@ -1,45 +1,126 @@
-# Hi there 👋
+# Hi there! 👋 I'm Mauritz Langer
 
-I'm Mauritz Langer, a Full Stack Software Developer with a passion for Business Informatics. I'm currently delving into the fascinating world of Web Development, DevOps, and App Development. I believe in the power of software to drive business innovation and efficiency.
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Software+Developer;Business+Informatics+Student;DevOps+%26+Performance+Engineering)
 
-Here's a bit more about me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mauritz-langer)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/Mauritz-Langer/Portfolio)
 
-- 🔭 I’m currently working on various full stack projects, honing my skills in both front-end and back-end technologies.
-- 🌱 I’m studying Business Informatics to understand how to leverage technology to solve business problems.
-- 👯 I’m collaborating on innovative web and app development projects.
-- 📡 I’m looking to improve my skills in advanced DevOps strategies and techniques as well as in modern backend languages.
+</div>
 
+## 🚀 About Me
 
-## My Tech Stack
+**Full Stack Software Developer** with expertise in **Business Informatics** and a passion for performance engineering and scalable solutions. I specialize in bridging the gap between technical implementation and business requirements.
 
-### Languages & Frameworks
+- 🔭 **Current Focus**: Database performance optimization and full-stack application development
+- 🎓 **Education**: Business Informatics - combining technical excellence with business strategy
+- 💼 **Expertise**: Full-stack development, DevOps practices, and system architecture
+- 🎯 **Goal**: Creating efficient, scalable solutions that drive business value
 
+## 💻 Technical Skills
+
+### Core Technologies
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,cs,css,dotnet,fastapi,html,java,latex,php,py,react,spring,tailwind,terraform,ts" />
+    <img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,cs,html,css" />
   </a>
 </p>
 
-### Cloud & Databases
-
+### Frameworks & Libraries  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,docker,github,githubactions,gitlab,kubernetes,mongodb,mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=spring,dotnet,react,angular,fastapi,nodejs" />
   </a>
 </p>
 
-### Tools & Other
-
+### Cloud & DevOps
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,idea,jquery,linux,maven,nginx,nodejs,php,postman,rabbitmq,raspberrypi,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,terraform,githubactions" />
   </a>
 </p>
 
-### To be learned
-
+### Databases & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nestjs,rust" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,linux,maven,nginx" />
   </a>
 </p>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+![Mauritz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mauritz-Langer&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide=stars)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mauritz-Langer&layout=compact&theme=github_dark&hide_border=true&count_private=true&langs_count=6)
+
+</div>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+[![Version Control Backend](https://github-readme-stats.vercel.app/api/pin/?username=Mauritz-Langer&repo=VersionControlBackend&theme=github_dark&hide_border=true)](https://github.com/Mauritz-Langer/VersionControlBackend)
+[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=Mauritz-Langer&repo=Portfolio&theme=github_dark&hide_border=true)](https://github.com/Mauritz-Langer/Portfolio)
+
+[![Wasserball Tabelle](https://github-readme-stats.vercel.app/api/pin/?username=Mauritz-Langer&repo=Wasserball-Tabelle&theme=github_dark&hide_border=true)](https://github.com/Mauritz-Langer/Wasserball-Tabelle)
+[![Thesis Template](https://github-readme-stats.vercel.app/api/pin/?username=Mauritz-Langer&repo=ThesisTemplate&theme=github_dark&hide_border=true)](https://github.com/Mauritz-Langer/ThesisTemplate)
+
+</div>
+
+## 💼 Professional Focus
+
+```yaml
+expertise:
+  - Full-Stack Web Development
+  - Database Performance Engineering
+  - DevOps & Cloud Infrastructure
+  - Business Process Optimization
+
+technical_strengths:
+  - System Architecture Design
+  - Performance Benchmarking
+  - Scalable Backend Solutions
+  - Modern Frontend Frameworks
+
+industry_knowledge:
+  - Business Informatics
+  - Software Engineering Best Practices
+  - Agile Development Methodologies
+  - Technology Strategy
+```
+
+## 🎯 Current Projects
+
+- **Database Benchmarking Suite**: Comprehensive performance testing framework for PostgreSQL and MongoDB
+- **Full-Stack Applications**: Modern web applications with React/Angular frontends and robust backends
+- **DevOps Automation**: Infrastructure as Code and CI/CD pipeline optimization
+
+## 📈 Professional Growth
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mauritz-Langer&theme=github-dark-blue&hide_border=true)
+
+</div>
+
+## 📫 Professional Contact
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Profile-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mauritz-langer)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-FF6B6B?style=for-the-badge&logo=safari)](https://github.com/Mauritz-Langer/Portfolio)
+
+</div>
+
+---
+
+<div align="center">
+  
+**Connecting Technology with Business Value**
+
+![Profile Views](https://komarev.com/ghpvc/?username=Mauritz-Langer&color=blue&style=flat-square&label=Profile+Views)
+
+</div>
